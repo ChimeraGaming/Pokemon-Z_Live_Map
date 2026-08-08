@@ -1,21 +1,48 @@
-MIT License
-
+PokemonZMap Proprietary License
 Copyright (c) 2026 ChimeraGaming
+All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This license applies only to the original PokemonZMap software, code,
+scripts, documentation, branding, and other original materials created
+by ChimeraGaming.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Permission is granted to download, install, and use official compiled
+releases of PokemonZMap for personal, non-commercial use.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You may not:
+
+- Copy, modify, reproduce, or redistribute PokemonZMap source code.
+- Decompile, disassemble, or reverse engineer PokemonZMap, except where
+  such restrictions are prohibited by applicable law.
+- Modify and redistribute PokemonZMap as your own software.
+- Sell, sublicense, rent, or commercially distribute PokemonZMap.
+- Redistribute modified versions of PokemonZMap without prior written
+  permission.
+- Represent an unofficial or modified version of PokemonZMap as an
+  official ChimeraGaming release.
+
+PokemonZMap does not include, distribute, or claim ownership of Pokémon Z
+map images or other Pokémon Z game assets.
+
+PokemonZMap functions as a companion application that references and
+displays compatible image files already present in the user's own game
+installation. Those files remain separate from PokemonZMap and are not
+licensed under this license.
+
+This license does not grant any rights to third-party software, images,
+graphics, trademarks, characters, game data, or other intellectual
+property that PokemonZMap may interact with or display.
+
+PokemonZMap is provided "AS IS", without warranty of any kind, express
+or implied, including but not limited to warranties of merchantability,
+fitness for a particular purpose, and noninfringement.
+
+In no event shall ChimeraGaming be liable for any claim, damages, or
+other liability arising from the use of PokemonZMap.
+
+PokemonZMap is an independent companion project and is not affiliated
+with or endorsed by the owners or developers of Pokémon Z or the
+Pokémon franchise.
+
+All rights not expressly granted by this license are reserved by
+ChimeraGaming.
