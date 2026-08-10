@@ -1,7 +1,6 @@
 ## Releases
 
 [![PC Release](https://img.shields.io/badge/PC-v1.0-blue?logo=windows)](https://github.com/ChimeraGaming/Pokemon-Z_Live_Map/releases/tag/v.1.0_PC)
-[![Android Release](https://img.shields.io/badge/Android-v1.1-green?logo=android)](https://github.com/ChimeraGaming/Pokemon-Z_Live_Map/releases/tag/v.1.1_Android)
 
 # PokemonZMap
 ![Android](https://img.shields.io/badge/Android-13%2B-green?logo=android)
@@ -22,61 +21,7 @@ It displays the map image associated with your current area, tracks your positio
 
 ## Android
 
-The Android version is designed to function as a live map on the AYN Thor's bottom screen while Pokémon Z runs on the top screen.
-
-On first launch, select your main **Pokémon Z game folder**. PokemonZMap will automatically install and configure the files required for live tracking.
-
-Once setup is complete, PokemonZMap remembers the selected folder and opens directly to the live map on future launches.
-
-**Important:** The selected game folder cannot be changed from within the app. To select a different folder, PokemonZMap must be uninstalled and reinstalled.
-
-### Features
-
-- Live player location tracking
-- Automatically changes maps between areas
-- Displays the full current map
-- Tracks your position directly on the map
-- Automatic first-time setup
-- Automatic backup of the original `Data/Scripts.rxdata`
-- Automatic installation of the tracker and 507 map files
-- Automatic creation of `ZMapTracker.txt`
-- Installation progress and verification
-- Elapsed, estimated total, and remaining installation time
-- Waiting screen when live map data has not been generated yet
-- Designed for the AYN Thor bottom display
-- No internet connection required for live tracking
-
----
-
-## Android Setup
-
-1. Install and launch the PokemonZMap APK.
-2. Select your main **Pokémon Z game folder**.
-3. Confirm the folder selection.
-4. Wait for PokemonZMap to complete the automatic installation.
-5. Launch Pokémon Z and start playing.
-
-During setup, PokemonZMap automatically backs up the original `Data/Scripts.rxdata`, installs the tracker and 507 map files, creates `ZMapTracker.txt`, and verifies the installation.
-
-**Installation time may fluctuate based on download and storage speeds.**
-
-### Waiting for Live Map
-
-If live map data has not been generated yet, PokemonZMap will display a waiting screen.
-
-Launch Pokémon Z and walk a few tiles. PokemonZMap will automatically detect the new map data and display the live map.
-
-No refresh or restart is required.
-
-### Changing the Game Folder
-
-The selected Pokémon Z folder is treated as permanent.
-
-To use a different Pokémon Z installation:
-
-1. Uninstall PokemonZMap.
-2. Reinstall the APK.
-3. Select the new Pokémon Z folder during setup.
+Moved to https://github.com/ChimeraGaming/FanmakePokemonMaps_Android
 
 ---
 
